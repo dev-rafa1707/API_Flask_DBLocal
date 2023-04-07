@@ -1,20 +1,22 @@
-carros = [
+# Local database
+
+Cars = [
     {
     'id':'1',
-    'marca':'Jeep',
-    'modelo':'Compass',
-    'ano':2017
+    'brand':'Jeep',
+    'model':'Compass',
+    'year':2017
     },
     {
     'id':'2',
-    'marca':'Mitsubisho',
-    'modelo':'ASX 4x4',
-    'ano':2015
+    'brand':'Mitsubisho',
+    'model':'ASX 4x4',
+    'year':2015
     },
     {
     'id':'3',
-    'marca':'Toyota',
-    'modelo':'Yaris',
-    'ano':2022
+    'brand':'Toyota',
+    'model':'Yaris',
+    'year':2022
     },
 ]
