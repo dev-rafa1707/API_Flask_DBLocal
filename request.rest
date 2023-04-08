@@ -17,4 +17,16 @@ Content-Type: application/json
 
 ###
 
+// Teste Car
+POST http://localhost:5000/cars/teste
+Content-Type: application/json
+
+  {
+  "id":"4",
+  "brand":"KIA",
+  "model":"Sportage",
+  "year":2010
+ }
+
+###
 
