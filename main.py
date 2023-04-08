@@ -23,17 +23,7 @@ def create_car():
         )
     ) 
 
-@app.route('/cars/teste', methods=['POST'])
-def change_car():
-    car = request.json
-    
-    return car
-    # Cars.append(car)
-    # return make_response(
-    #     jsonify(message='Successful registration',
-    #             data=car
-    #     )
-    # ) 
+ 
 
 
 
